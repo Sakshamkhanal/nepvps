@@ -49,11 +49,11 @@ enableGitInfo = true      # Enable Git info for lastmod
   [params.header]
     background = "bg-white/80 backdrop-blur-sm"
     border = "border-b border-gray-100"
-    
+
     # Header Logo
     [params.header.logo]
       src = "/images/logo.svg"
-    
+
     # Header Buttons (optional)
     # [params.header.buttons]
     #   [params.header.buttons.signIn]
@@ -64,16 +64,16 @@ enableGitInfo = true      # Enable Git info for lastmod
     #     url = "/register"
 
   # Global CTA Configuration (optional)
-  [params.cta]
-    enable = true
-    title = "Ready to Get Started?"
-    description = "Join companies using our platform"
-    [params.cta.primary_button]
-      text = "Get Started Free"
-      url = "/get-started"
-    [params.cta.secondary_button]
-      text = "Book Demo"
-      url = "/demo"
+  # [params.cta]
+  #   enable = true
+  #   title = "Ready to Get Started?"
+  #   description = "Join companies using our platform"
+  #   [params.cta.primary_button]
+  #     text = "Get Started Free"
+  #     url = "/get-started"
+  #   [params.cta.secondary_button]
+  #     text = "Book Demo"
+  #     url = "/demo"
 
   # Social Media Links (optional)
   [params.social]
@@ -87,28 +87,18 @@ enableGitInfo = true      # Enable Git info for lastmod
   name = "Home"
   url = "/"
   weight = 1
-  
-  [[menu.main]]
-    name = "Features"
-    weight = 2
-    
+
   [[menu.main]]
     name = "Plans"
     url = "/pricing"
     weight = 3
-  
-  [[menu.main]]
-    name = "Support"
-    url = "/support"
-    weight = 4
-    
+
   [[menu.main]]
     name = "Blog"
     url = "/blog"
-    weight = 5
+    weight = 4
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 6
-
+    weight = 5

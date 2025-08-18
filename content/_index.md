@@ -1,39 +1,35 @@
 ---
 title: Home
 client_logos:
-  - name: "Customer 1"
-    logo: "/images/logos/customer-1.png"
-  - name: "Customer 2"
-    logo: "/images/logos/customer-2.png"
-  - name: "Customer 3"
-    logo: "/images/logos/customer-3.png"
-  - name: "Customer 4"
-    logo: "/images/logos/customer-4.png"
-  - name: "Customer 5"
-    logo: "/images/logos/customer-5.png"
+  - name: "FinTech Corp"
+    logo: "/images/logos/client-fintech.png"
+  - name: "EduCloud"
+    logo: "/images/logos/client-educloud.png"
+  - name: "Nepal Web Services"
+    logo: "/images/logos/client-nws.png"
+  - name: "AppStack Asia"
+    logo: "/images/logos/client-appstack.png"
+  - name: "Himalayan Solutions"
+    logo: "/images/logos/client-himalayan.png"
 testimonials:
-  - name: "John Smith"
-    title: "CTO at TechStartup"
-    avatar: "/images/testimonial-1.svg"
-    quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
-  - name: "Sarah Johnson"
-    title: "Founder at WebFlow"
-    avatar: "/images/testimonial-1.svg"
-    quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
-  - name: "Michael Chen"
-    title: "Lead Developer at CloudTech"
-    avatar: "/images/testimonial-1.svg"
-    quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
+  - name: "Prakash Gurung"
+    title: "CTO at Himalayan Solutions"
+    avatar: "/images/testimonial-prakash.svg"
+    quote: "NepVPS gave us full control over our server setup. Low latency, 24/7 support, and transparent pricing make them our go-to VPS provider."
+  - name: "Ayesha Shrestha"
+    title: "Founder at EduCloud"
+    avatar: "/images/testimonial-ayesha.svg"
+    quote: "We moved from a foreign VPS provider to NepVPS and saw instant improvements in speed and uptime. The local support team understands our needs perfectly."
+  - name: "Rahul Thapa"
+    title: "Lead Developer at AppStack Asia"
+    avatar: "/images/testimonial-rahul.svg"
+    quote: "Custom configurations, SSD storage, and rock-solid uptime—NepVPS is exactly what developers in Nepal have been waiting for."
 ---
 
-{{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
-    primary_button_url="#"
-    secondary_button_text="View Demo"
-    secondary_button_url="#"
-    hero_image="/images/hero-dashboard.svg"
+{{< hero
+    headline="Custom VPS Hosting with Global Infrastructure"
+    sub_headline="Powered by Vultr's worldwide network. Managed by a local Nepali team who understands your business."
+    hero_image="/images/hero-vps.svg"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
@@ -41,54 +37,46 @@ testimonials:
 
 {{< client-logos animate="true" >}}
 
-{{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+{{< features-section
+    title="Why Choose NepVPS?"
+    description="You get the speed and reliability of a global cloud provider, plus the personal touch and support of a local Nepali team."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Custom Server Configurations"
+    description="Choose your own CPU, RAM, and storage. Build a VPS tailored to your workload—whether it’s web hosting, app development, or big data."
+    badge="Custom"
     badgeColor="#2563eb"
-    image="/images/feature-1.svg"
-    buttonText="Learn More"
-    buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    image="/images/feature-custom.svg"
+    features="Flexible CPU/RAM options,SSD storage,Root access,Multiple OS choices"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Global Data Centers"
+    description="We leverage Vultr's high-performance infrastructure across multiple continents, giving you the flexibility to deploy your VPS close to your users."
+    badge="Performance"
     badgeColor="#7c3aed"
-    image="/images/feature-2.svg"
-    buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    image="/images/feature-datacenter.svg"
+    features="Worldwide locations,Low-latency connections,Secure facilities,99.99% uptime SLA"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="24/7 Local Support"
+    description="Talk to real engineers based in Nepal—no chatbots, no endless ticket queues."
+    badge="Support"
     badgeColor="#16a34a"
-    image="/images/feature-3.svg"
-    buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    image="/images/feature-support.svg"
+    features="Phone, email & chat support,Fast response times,Proactive monitoring,Guided migrations"
     imagePosition="right"
 >}}
 
 {{< /features-section >}}
 
-{{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
+{{< testimonials
+    title="Trusted by Nepal’s Leading Businesses"
+    description="From startups to enterprises, NepVPS powers projects that demand speed, reliability, and control."
     animate="true"
     background-color="#f1f5f9"
 >}}
-
-{{< cta >}}

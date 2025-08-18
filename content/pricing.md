@@ -6,146 +6,143 @@ layout: "pricing"
 
 {{< pricing-table-1 >}}
 {
-    "title": "Designed for business teams like yours",
-    "description": "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",
-    "plans": [
-        {
-            "name": "Starter",
-            "price": "29",
-            "description": "Best option for personal use & for your next project.",
-            "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 1 developer",
-                "Premium support: 6 months",
-                "Free updates: 6 months"
-            ],
-            "button": {
-                "text": "Get started",
-                "url": "#"
-            }
-        },
-        {
-            "name": "Company",
-            "price": "99",
-            "description": "Relevant for multiple users, extended & premium support.",
-            "featured": true,
-            "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 10 developers",
-                "Premium support: 24 months",
-                "Free updates: 24 months"
-            ],
-            "button": {
-                "text": "Get started",
-                "url": "#"
-            }
-        },
-        {
-            "name": "Enterprise",
-            "price": "499",
-            "description": "Best for large scale uses and extended redistribution rights.",
-            "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 100+ developers",
-                "Premium support: 36 months",
-                "Free updates: 36 months"
-            ],
-            "button": {
-                "text": "Get started",
-                "url": "#"
-            }
-        }
-    ]
+  "title": "NepVPS Small VPS Plans",
+  "description": "Affordable VPS plans for small projects, testing, or personal websites. Powered by Vultr, managed locally.",
+  "plans": [
+    {
+      "name": "Basic",
+      "price": "600",
+      "description": "Perfect for simple websites and personal projects.",
+      "features": [
+        "1 vCPU",
+        "0.5 GB RAM",
+        "10 GB SSD Storage",
+        "0.5 TB Bandwidth"
+      ],
+      "button": {
+        "text": "Register Basic",
+        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+      }
+    },
+    {
+      "name": "Standard",
+      "price": "1000",
+      "description": "Ideal for growing personal projects and small apps.",
+      "features": [
+        "1 vCPU",
+        "1 GB RAM",
+        "32 GB NVMe Storage",
+        "1 TB Bandwidth"
+      ],
+      "button": {
+        "text": "Register Standard",
+        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+      }
+    },
+    {
+      "name": "Premium",
+      "price": "2000",
+      "description": "For more demanding workloads and medium-sized projects.",
+      "features": [
+        "1 vCPU",
+        "2 GB RAM",
+        "55 GB SSD Storage",
+        "2 TB Bandwidth"
+      ],
+      "button": {
+        "text": "Register Premium",
+        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+      }
+    }
+  ]
 }
+
 {{< /pricing-table-1 >}}
 
 <div class="mt-16"></div>
 
 {{< pricing-table-2 >}}
 {
-    "title": "Alternative Pricing Options",
-    "description": "Choose a plan that best suits your business needs with our flexible pricing options.",
-    "plans": [
-        {
-            "name": "Basic",
-            "price": "19",
-            "description": "Perfect for freelancers and solo developers.",
-            "features": [
-                "Core features included",
-                "Community support",
-                "Team size: 1 developer",
-                "Basic analytics",
-                "Monthly updates"
-            ],
-            "button": {
-                "text": "Choose Basic",
-                "url": "#"
-            }
-        },
-        {
-            "name": "Professional",
-            "price": "79",
-            "description": "Ideal for growing development teams.",
-            "featured": true,
-            "features": [
-                "All Basic features",
-                "Priority support",
-                "Team size: up to 5 developers",
-                "Advanced analytics",
-                "CI/CD integration"
-            ],
-            "button": {
-                "text": "Choose Pro",
-                "url": "#"
-            }
-        },
-        {
-            "name": "Business",
-            "price": "299",
-            "description": "For large organizations and enterprises.",
-            "features": [
-                "All Pro features",
-                "24/7 dedicated support",
-                "Unlimited team size",
-                "Custom integrations",
-                "SLA guarantee"
-            ],
-            "button": {
-                "text": "Choose Business",
-                "url": "#"
-            }
-        }
-    ]
+  "title": "NepVPS Pricing Plans",
+  "description": "Choose a plan that best suits your computing needs. All plans are powered by Vultr infrastructure and managed locally.",
+  "plans": [
+    {
+      "name": "NVIDIA L40S",
+      "price": "400",
+      "description": "High-end GPU VPS for AI/ML workloads and heavy computations.",
+      "features": [
+        "48 GB VRAM",
+        "16 vCPUs",
+        "180 GB Storage"
+      ],
+      "button": {
+        "text": "Register L40S",
+        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+      }
+    },
+    {
+      "name": "NVIDIA A16",
+      "price": "20",
+      "description": "Entry-level GPU VPS suitable for small AI projects and testing.",
+      "features": [
+        "2 GB VRAM",
+        "8 GB RAM",
+        "50 GB NVMe Storage",
+        "1 TB Bandwidth"
+      ],
+      "button": {
+        "text": "Register A16",
+        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+      }
+    },
+    {
+      "name": "2 x NVIDIA A16",
+      "price": "150",
+      "description": "Double GPU VPS for larger AI workloads and high-performance computing.",
+      "features": [
+        "12 vCPUs",
+        "128 GB RAM",
+        "100 GB NVMe Storage",
+        "10 TB Bandwidth"
+      ],
+      "button": {
+        "text": "Register 2xA16",
+        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+      }
+    }
+  ]
 }
+
 {{< /pricing-table-2 >}}
 
 {{< faq >}}
 {
     "title": "Common Questions",
-    "description": "Find answers to frequently asked questions about our pricing plans and features.",
+    "description": "Find answers to frequently asked questions about our VPS platform, payments, and support.",
     "questions": [
         {
-            "question": "What type of payment do you accept?",
-            "answer": "We accept all major credit cards, PayPal, and bank transfers. All payments are processed securely through our payment providers."
+            "question": "What kind of VPS plans do you offer?",
+            "answer": "We offer small, affordable VPS plans ideal for personal projects, testing, and learning. Plans typically include 1 vCPU, 512MB–1GB RAM, and 10–20GB storage, with instant setup."
         },
         {
-            "question": "Do you offer custom pricing for larger teams?",
-            "answer": "Yes! If you have specific needs or a larger team, please contact our sales team for custom pricing tailored to your requirements."
+            "question": "How can I pay for a VPS?",
+            "answer": "You can pay via local methods like eSewa, Khalti, or direct bank transfer. We aim to make payment simple for Nepali developers without international cards."
         },
         {
-            "question": "What's included in the free updates?",
-            "answer": "Free updates include all new features, improvements, and bug fixes released during your subscription period. You'll always have access to the latest version."
+            "question": "Is there support if I face issues?",
+            "answer": "Yes! I manage all support personally as a one-person team. I usually respond within 24–48 hours, depending on the workload."
         },
         {
-            "question": "What kind of support is included?",
-            "answer": "All plans include technical support, with varying response times based on your plan level. Enterprise customers get priority support with dedicated account managers."
+            "question": "Can I upgrade or downgrade my VPS plan?",
+            "answer": "Yes, you can request a plan change at any time. Upgrades can be applied immediately, while downgrades take effect at the start of the next billing period."
         },
         {
-            "question": "Can I upgrade or downgrade my plan?",
-            "answer": "Yes, you can change your plan at any time. When upgrading, you'll be prorated for the remainder of your billing period. When downgrading, changes take effect at the next billing cycle."
+            "question": "Do you offer custom VPS configurations?",
+            "answer": "Currently, I offer predefined plans suitable for learning and small projects. Custom configurations may be possible in the future as the platform grows."
+        },
+        {
+            "question": "Why did you build this platform?",
+            "answer": "As a junior developer, finding VPS in Nepal was a hassle. I built this platform to provide an easy and affordable solution for local developers, students, and hobbyists."
         }
     ]
 }

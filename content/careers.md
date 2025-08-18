@@ -1,42 +1,37 @@
 ---
 title: "Join Our Team"
-description: "Be part of a team that's revolutionizing the SaaS industry with innovative solutions and a people-first culture."
+description: "Be part of our journey as we grow a simple VPS platform for Nepali developers. Hiring will begin once we scale."
 layout: "career"
 
 culture_section:
   title: "Our Culture"
   image: "/images/team.jpg"
   image_alt: "Our Team"
-  image_caption: "Join our amazing team!"
+  image_caption: "Currently a one-person team, building this platform from the ground up!"
   values:
     - icon: "🌟"
       title: "Innovation First"
-      description: "We encourage creative thinking and empower our team to push boundaries and explore new possibilities."
+      description: "We focus on building creative solutions that make VPS accessible and simple for Nepali developers."
     - icon: "🤝"
-      title: "Collaborative Spirit"
-      description: "We believe in the power of teamwork and foster an environment where everyone's voice is heard and valued."
+      title: "Collaboration Mindset"
+      description: "Even as a one-person team, we value feedback from early users and the community."
     - icon: "🌱"
-      title: "Growth Mindset"
-      description: "We invest in our team's development and provide opportunities for continuous learning and advancement."
+      title: "Growth Focus"
+      description: "As the platform grows, there will be opportunities for team members to learn, contribute, and take ownership."
 
 benefits_section:
   title: "Why Join Us?"
   benefits:
     - icon: "💪"
-      title: "Health & Wellness"
-      description: "Comprehensive health coverage, wellness programs, and mental health support."
+      title: "Be Part of the Journey"
+      description: "Contribute to building a platform that solves a real problem for local developers."
     - icon: "🎯"
-      title: "Work-Life Balance"
-      description: "Flexible working hours, remote options, and unlimited PTO policy."
+      title: "Impact"
+      description: "Every contribution matters — early team members will shape the direction of the platform."
     - icon: "📚"
-      title: "Learning & Development"
-      description: "Professional development budget and regular learning sessions."
+      title: "Learning Opportunities"
+      description: "Work closely with the founder and gain hands-on experience in building and scaling a tech product."
 
-positions_section:
-  title: "Open Positions"
-  view_position_text: "View Position"
 ---
 
-At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.
-
-We're looking for passionate individuals who want to make a difference and grow with us. If you're excited about building the future of SaaS and working with cutting-edge technology, we'd love to hear from you.
+Currently, this is a **one-person operation**, and I’m focused on building the platform and serving early users. **Hiring will start once the platform scales**, but I’m always happy to hear from passionate developers who want to stay in touch for future opportunities.
