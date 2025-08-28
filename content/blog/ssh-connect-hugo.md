@@ -5,7 +5,7 @@ author: "Michael Park"
 description: "Learn how to securely connect to a remote server using SSH, including step-by-step instructions for Linux, macOS, and Windows."
 categories: ["Tutorials"]
 tags: ["SSH", "Remote Access", "Linux", "macOS", "Windows"]
-featured_image: "/images/blog/ssh-connection.jpg"
+featured_image: "/images/blog/ssh.jpg"
 ---
 
 {{< toc >}}

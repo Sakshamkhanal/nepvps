@@ -5,7 +5,7 @@ author: "Saksham"
 description: "Learn how to install and configure Nginx on Ubuntu 20.04, including setting up server blocks and adjusting firewall settings."
 categories: ["Web Server"]
 tags: ["Nginx", "Ubuntu 20.04", "Web Server", "Linux"]
-featured_image: "/images/blog/nginx-ubuntu.jpg"
+featured_image: "/images/blog/nginx.jpg"
 ---
 
 {{< toc >}}

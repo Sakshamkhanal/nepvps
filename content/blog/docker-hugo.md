@@ -5,7 +5,7 @@ author: "Nabin Lopchan"
 description: "A beginner-friendly guide to understanding Docker, pulling your first image, and running it in a container."
 categories: ["Docker", "Containerization"]
 tags: ["Docker", "Containers", "DevOps", "Linux"]
-featured_image: "/images/blog/docker-first-image.jpg"
+featured_image: "/images/blog/docker.jpg"
 ---
 
 {{< toc >}}

@@ -29,7 +29,7 @@ testimonials:
 {{< hero
     headline="Custom VPS Hosting with Global Infrastructure"
     sub_headline="Powered by Vultr's worldwide network. Managed by a local Nepali team who understands your business."
-    hero_image="/images/hero-vps.svg"
+    hero_image="/images/hero-vps.png"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
     gradient-angle="180"
@@ -47,7 +47,7 @@ testimonials:
     description="Choose your own CPU, RAM, and storage. Build a VPS tailored to your workload—whether it’s web hosting, app development, or big data."
     badge="Custom"
     badgeColor="#2563eb"
-    image="/images/feature-custom.svg"
+    image="/images/feature.png"
     features="Flexible CPU/RAM options,SSD storage,Root access,Multiple OS choices"
     imagePosition="right"
 >}}
@@ -57,7 +57,7 @@ testimonials:
     description="We leverage Vultr's high-performance infrastructure across multiple continents, giving you the flexibility to deploy your VPS close to your users."
     badge="Performance"
     badgeColor="#7c3aed"
-    image="/images/feature-datacenter.svg"
+    image="/images/datacenter.png"
     features="Worldwide locations,Low-latency connections,Secure facilities,99.99% uptime SLA"
     imagePosition="left"
 >}}
@@ -67,7 +67,7 @@ testimonials:
     description="Talk to real engineers based in Nepal—no chatbots, no endless ticket queues."
     badge="Support"
     badgeColor="#16a34a"
-    image="/images/feature-support.svg"
+    image="/images/customer_care.png"
     features="Phone, email & chat support,Fast response times,Proactive monitoring,Guided migrations"
     imagePosition="right"
 >}}

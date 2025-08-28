@@ -21,7 +21,7 @@ layout: "pricing"
       ],
       "button": {
         "text": "Register Basic",
-        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+        "url": "https://forms.gle/3QrSJamNDruHJbZv7"
       }
     },
     {
@@ -36,7 +36,7 @@ layout: "pricing"
       ],
       "button": {
         "text": "Register Standard",
-        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+        "url": "https://forms.gle/3QrSJamNDruHJbZv7"
       }
     },
     {
@@ -51,7 +51,7 @@ layout: "pricing"
       ],
       "button": {
         "text": "Register Premium",
-        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+        "url": "https://forms.gle/3QrSJamNDruHJbZv7"
       }
     }
   ]
@@ -77,7 +77,7 @@ layout: "pricing"
       ],
       "button": {
         "text": "Register L40S",
-        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+        "url": "https://forms.gle/qDFsQp1qSmryZJRU7"
       }
     },
     {
@@ -92,7 +92,7 @@ layout: "pricing"
       ],
       "button": {
         "text": "Register A16",
-        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+        "url": "https://forms.gle/qDFsQp1qSmryZJRU7"
       }
     },
     {
@@ -107,7 +107,7 @@ layout: "pricing"
       ],
       "button": {
         "text": "Register 2xA16",
-        "url": "https://forms.office.com/r/Ed8hf4NzgR"
+        "url": "https://forms.gle/qDFsQp1qSmryZJRU7"
       }
     }
   ]
